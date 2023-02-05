@@ -1,0 +1,15 @@
+<div class="text-center col col-12"><i class="logo-home"></i> <span><!-- --></span></div><div class="pb-4 text-center hide col col-12"><a class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default primary" href="clashofclans://action=SupportCreator&amp;id=cos"><span class="v-btn__content">
+            Use Creator Code cos 💪
+          </span></a></div><div class="text-center mt-2"><button class="v-btn v-btn--block v-btn--is-elevated v-btn--has-bg theme--dark v-size--default primary" type="button"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate v-icon--left theme--dark"><svg aria-hidden="true" class="v-icon__svg" role="img" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 2H4C2.9 2 2 2.9 2 4V22L6 18H20C21.1 18 22 17.1 22 16V4C22 2.9 21.1 2 20 2M20 16H5.2L4 17.2V4H20V16Z"></path></svg></span>
+            Feedback
+          </span></button></div><div class="container pa-0 pb-2 text-center small-secondary-text"><div class="mb-2 poweredBy_N395X"><span>Proudly powered by</span> <a href="https://nuxtjs.org/" rel="noopener" target="_blank"><img alt="Nuxt.js" height="30" src="/_nuxt/img/nuxt.965fac1.svg"/></a> <span>and</span> <a class="no-link text--white" href="https://vuetifyjs.com/" rel="noopener" target="_blank"><img alt="Vuetify" height="30" src="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4Ny41IDEwMCI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiMxNjk3ZjY7fS5jbHMtMntmaWxsOiM3YmM2ZmY7fS5jbHMtM3tmaWxsOiNhZWRkZmY7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5BcnRib2FyZCA0NzwvdGl0bGU+PHBvbHlsaW5lIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSI0My43NSAwIDIzLjMxIDAgNDMuNzUgNDguMzIiLz48cG9seWdvbiBjbGFzcz0iY2xzLTIiIHBvaW50cz0iNDMuNzUgNjIuNSA0My43NSAxMDAgMCAxNC41OCAyMi45MiAxNC41OCA0My43NSA2Mi41Ii8+PHBvbHlsaW5lIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSI0My43NSAwIDY0LjE5IDAgNDMuNzUgNDguMzIiLz48cG9seWdvbiBjbGFzcz0iY2xzLTMiIHBvaW50cz0iNjQuNTggMTQuNTggODcuNSAxNC41OCA0My43NSAxMDAgNDMuNzUgNjIuNSA2NC41OCAxNC41OCIvPjwvc3ZnPg=="/></a></div> <div>
+      © 2016-2020 Adrien Baron
+      <a class="text--secondary" href="/termsofservice">
+        Terms of Service and Privacy Policy
+      </a> <span> | </span> <a class="nn-cmp-show" href="#">Manage Cookie Settings</a></div> <div>
+      This content is not affiliated with, endorsed, sponsored, or
+      specifically approved by Supercell and Supercell is not responsible for
+      it. For more information see Supercell’s Fan Content Policy:
+      <a class="text--secondary" href="http://www.supercell.com/fan-content-policy">
+        www.supercell.com/fan-content-policy
+      </a></div></div>
